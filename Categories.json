@@ -1,0 +1,32 @@
+ [
+    {
+      "id": 0,
+      "Name": "Literature",
+      "Difficulty": 1
+    },
+    {
+      "id": 1,
+      "Name": "Music",
+      "Difficulty": 2
+    },
+    {
+      "id": 2,
+      "Name": "History",
+      "Difficulty": 2
+    },
+    {
+      "id": 3,
+      "Name": "Geography",
+      "Difficulty": 3
+    },
+    {
+      "id": 4,
+      "Name": "Videogames",
+      "Difficulty": 3
+    }
+  ]
+
+  
+  
+
+

@@ -1,0 +1,280 @@
+
+   [
+    {
+      "QuestionM": "Quién escribió Frankenstein?",
+      "Category": 0,
+      "Answers": [
+        "Edgar Allan Poe",
+        "Gabriel García Márquez",
+        "Julio Verne",
+        "Mary Shelly"
+      ],
+      "Correct_Answer": 3
+    },
+    {
+      "QuestionM": "Quien formaba parte del círculo de Lovecraft?",
+      "Category": 0,
+      "Answers": [
+        "JRR Tolkien",
+        "August Derleth",
+        "Christopher Paulini",
+        "Stephenie Meyer"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "Cual es el primer libro de la saga de Harry Potter?",
+      "Category": 0,
+      "Answers": [
+        "El Hobbit",
+        "La piedra filosofal",
+        "La metamorfosis",
+        "Wigetta un viaje mágico"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "Lev Nikoláievich Tolstó hace parte de que movimiento?",
+      "Category": 0,
+      "Answers": [
+        "Realismo",
+        "Impresionismo",
+        "Romanticismo",
+        "Postmodernidad"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "En que año se publico 100 años de soledad",
+      "Category": 0,
+      "Answers": [
+        "1982",
+        "1967",
+        "1970",
+        "1980"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "Una de estas obras es de Beethoven?",
+      "Category": 1,
+      "Answers": [
+        "El lago de los cisnes",
+        "Waltz no 2",
+        "Kreutzer sonata no 9",
+        "Rondo alla turca"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "Cuantos tiempos hay en una clave de ¾?",
+      "Category": 1,
+      "Answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "Correct_Answer": 3
+    },
+    {
+      "QuestionM": "Cuál de estos instrumentos pertenece a la categoría vientos de madera?",
+      "Category": 1,
+      "Answers": [
+        "Trombón",
+        "Trompeta",
+        "Saxofón",
+        "Tuba"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "En quien se basa la película el violinista del diablo?",
+      "Category": 1,
+      "Answers": [
+        "Nicolo Paganini",
+        "Jascha Heifetz",
+        "Giuseppe Tartini",
+        "Antonio Stradivari"
+      ],
+      "Correct_Answer": 0
+    },
+    {
+      "QuestionM": "¿En la clave de 8/8 cuantos tiempos vale una negra?",
+      "Category": 1,
+      "Answers": [
+        "2 tiempos",
+        "medio tiempo",
+        "1 tiempo",
+        "4 tiempos"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "¿Contra que ave nativa pelio y perdió Australia una guerra?",
+      "Category": 2,
+      "Answers": [
+        "Canguros",
+        "Gorrión",
+        "Emu",
+        "Avestruz"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "¿La guerra del balde de 1325 se pelio entre cuales estados?",
+      "Category": 2,
+      "Answers": [
+        "Loissiana – Oregon",
+        "Colombia – Uruguay",
+        "Roma – Napoli",
+        "Bologna – Modena"
+      ],
+      "Correct_Answer": 3
+    },
+    {
+      "QuestionM": "¿Cuando fue el fin de la guerra civil americana?",
+      "Category": 2,
+      "Answers": [
+        "1867",
+        "1865",
+        "1870",
+        "1862"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "¿Cuanto duro la guerra de 100 años?",
+      "Category": 2,
+      "Answers": [
+        "116 años",
+        "100 años",
+        "6 meses",
+        "200 años"
+      ],
+      "Correct_Answer": 0
+    },
+    {
+      "QuestionM": "¿Cual fue la guerra mas corta de historia?",
+      "Category": 2,
+      "Answers": [
+        "Guerra Anglo Zanzibariana",
+        "Primera guerra mundial",
+        "La guerra de los seis días",
+        "La gran guerra Emu"
+      ],
+      "Correct_Answer": 0
+    },
+    {
+      "QuestionM": "Capital de Djabuti?",
+      "Category": 3,
+      "Answers": [
+        "Bangladesh",
+        "Bucaramanga",
+        "Praga",
+        "Djabuti"
+      ],
+      "Correct_Answer": 3
+    },
+    {
+      "QuestionM": "¿Que colonia inglesa se encuentra en America del sur?",
+      "Category": 3,
+      "Answers": [
+        "Jersey",
+        "Falklands",
+        "Canada",
+        "Sandwich"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "¿Cual es el país mas al norte de África?",
+      "Category": 3,
+      "Answers": [
+        "Sudafrica",
+        "Tunes",
+        "España",
+        "Marruecos"
+      ],
+      "Correct_Answer": 1
+    },
+    {
+      "QuestionM": "¿Cual es el país más viejo de Europa?",
+      "Category": 3,
+      "Answers": [
+        "Francia",
+        "Inglaterra",
+        "San Marino",
+        "Croacia"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "¿Que moneda soberana utiliza Kazajistan?",
+      "Category": 3,
+      "Answers": [
+        "Tenge",
+        "Som",
+        "Som Kirguís",
+        "Rublo"
+      ],
+      "Correct_Answer": 0
+    },
+    {
+      "QuestionM": "¿En que año se estrenó Mortal Kombat?",
+      "Category": 4,
+      "Answers": [
+        "1992",
+        "1990",
+        "1991",
+        "1995"
+      ],
+      "Correct_Answer": 0
+    },
+    {
+      "QuestionM": "¿En que continente se ambienta el primer dark souls?",
+      "Category": 4,
+      "Answers": [
+        "Yarnahm",
+        "Ashina",
+        "Lordran",
+        "Lothric"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "¿Cuantos poderes puede tener Kirby en Kirby Star Allies?",
+      "Category": 4,
+      "Answers": [
+        "30",
+        "20",
+        "23",
+        "28"
+      ],
+      "Correct_Answer": 3
+    },
+    {
+      "QuestionM": "¿Cuantos premios gano The last of us 2 en los game awards?",
+      "Category": 4,
+      "Answers": [
+        "todos",
+        "2",
+        "7",
+        "4"
+      ],
+      "Correct_Answer": 2
+    },
+    {
+      "QuestionM": "¿Quien aparecía en el centro de la portada de FIFA 2004?",
+      "Category": 4,
+      "Answers": [
+        "Messi",
+        "Pele",
+        "Maradona",
+        "Del pierro"
+      ],
+      "Correct_Answer": 3
+    }
+  ]
+
+
