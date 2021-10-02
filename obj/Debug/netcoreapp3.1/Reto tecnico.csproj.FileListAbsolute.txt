@@ -1,0 +1,16 @@
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.AssemblyInfo.cs
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Reto tecnico.exe
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Reto tecnico.deps.json
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Reto tecnico.runtimeconfig.json
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Reto tecnico.runtimeconfig.dev.json
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Reto tecnico.dll
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Reto tecnico.pdb
+C:\Users\Personal\source\repos\Reto tecnico\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.csproj.CopyComplete
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.dll
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.pdb
+C:\Users\Personal\source\repos\Reto tecnico\obj\Debug\netcoreapp3.1\Reto tecnico.genruntimeconfig.cache
